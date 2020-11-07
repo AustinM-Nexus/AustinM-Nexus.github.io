@@ -1,5 +1,5 @@
 ---
-title: Blogpost
+title: Blogposts
 layout: landing
 description: Insights drawn from news articles
 image: assets/images/news.jpg
@@ -29,7 +29,7 @@ permalink: blogposts
     width: 100%;
     opacity: 0;
     transition: .5s ease;
-    background-color: #8ea9e8;
+    background-color: #e7b788;
     border-radius: 50%;
   }
   .image:hover .overlay {
@@ -44,7 +44,7 @@ permalink: blogposts
 		padding: 0 0 2em 0;
   }
   .overlay .text {
-    color: #ffffff;
+    color: #242943;
 		font-family: 'Source Sans Pro', Helvetica, sans-serif;
     font-size: 1em;
     font-weight: 600;
