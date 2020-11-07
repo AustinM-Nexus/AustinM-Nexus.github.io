@@ -12,7 +12,7 @@
 
         {% include header.html %}
 
-        <section id="banner" class="style2">
+        <section id="banner" class="{{ page.bannerStyle }}">
             <div class="inner">
                 <span class="image">
                     <img src="{{ site.baseurl }}/{{ page.image }}" alt="">
@@ -23,15 +23,19 @@
                 <div class="content">
 
                     {{ page.description }}
-
+                    {% if page.backLink %}
+                    <a href="{{ page.backLink }}" class="button special icon fa-arrow-left">
+                        Blogposts
+                    </a>
+                    {% endif %}
                 </div>
             </div>
         </section>
 
-    {{ content }}
+        {{ content }}
 
-    {% include footer.html %}
+        {% include footer.html %}
 
-</body>
+    </body>
 
 </html>

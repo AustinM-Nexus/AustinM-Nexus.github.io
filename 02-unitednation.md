@@ -1,10 +1,39 @@
 ---
-layout: unitednation
+layout: landing
 title: United Nation
 description: 58th Session of the Commission for Social Development
 image: assets/images/united-nation-hq.jpg
 nav-menu: true
+bannerStyle: style1
+permalink: un
 ---
+<style>
+  .video {
+    margin: 0 auto;
+    text-align: center;
+    padding: 0 0 2em 0;
+  }
+  .videoTitle {
+    padding: 2em 0 0 0;
+    margin: 0 auto;
+    max-width: 65em;
+    width: calc(100% - 6em);
+  }
+</style>
+
+<section id="video">
+  <div class="videoTitle">
+    <header class="major">
+      <h4>Video</h4>
+    </header>
+  </div>
+  <div class="video">
+		<video width="854" height="480" controls muted autoplay>
+      <source src="assets/videos/united-nation-video.mp4" type="video/mp4" />
+    </video>
+	</div>
+</section>
+
 <section id="first" class="spotlights">
   <section>
     <img src="assets/images/un-entrance.jpg" alt="" data-position="center center" />

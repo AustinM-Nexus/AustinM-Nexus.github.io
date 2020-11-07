@@ -4,6 +4,8 @@ layout: landing
 description: 'The Foundation for Preventing Youth Violence (FPYV)'
 image: assets/images/btf-logo.jpg
 nav-menu: true
+bannerStyle: style6
+permalink: blue-tree-foundation
 ---
 <style>
   .banner {

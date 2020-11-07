@@ -4,6 +4,7 @@ title: Introduction
 description:
 image: assets/images/introduction-image.jpg
 nav-menu: true
+permalink: introduction
 ---
 
 Twice every day, all cities suddenly explode with life. Once in the morning when we scurry off to where we are needed, and once in the evening when we finally return to a warm, cozy, home - a personal refuge.
