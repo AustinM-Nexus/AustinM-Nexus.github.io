@@ -15,7 +15,7 @@ backLink: blogposts
     text-align: center;
   }
   hr.dotted {
-    border-top: 1px dashed white;
+    border-top: 1px dashed #242943;
   }
 </style>
 
