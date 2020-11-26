@@ -1,6 +1,6 @@
 ---
 layout: landing
-title: United Nation
+title: United Nations
 description: 58th Session of the Commission for Social Development
 image: assets/images/united-nation-hq.jpg
 nav-menu: true

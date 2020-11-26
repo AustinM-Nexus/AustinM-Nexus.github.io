@@ -22,7 +22,6 @@ backLink: blogposts
 <section id="years">
   <div class="align">
     <ul class="actions">
-      <!--
       <li>
         <a href="#2020" class="button" style="margin: 0 1.5em 0 1.5em;">
           2020
@@ -33,7 +32,6 @@ backLink: blogposts
           2019
         </a>
       </li>
-      -->
       <li>
         <a href="#2018" class="button" style="margin: 0 1.5em 0 1.5em;">
           2018
@@ -45,6 +43,362 @@ backLink: blogposts
         </a>
       </li>
     </ul>
+  </div>
+</section>
+
+<!-- Posts -->
+<section id="2020">
+  <div class="inner">
+    <a href="#banner" class="button special fit icon fa-arrow-up">2020</a>
+    <!-- First post -->
+    <div class="box">
+      <header class="major" style="padding: 0.5em 0 0 0;">
+        <h3>State Of Homelessness In Singapore</h3>
+        <p style="padding: -0.5em 0 0 0;">2020.08.13</p>
+      </header>
+      <p>
+        <b>QUESTION</b>
+      </p>
+      <p>
+        Mr Zainal Sapari MP for Pasir Ris-Punggol GRC
+      </p>
+      <p>
+        To ask the Minister for Social and Family Development (a) what has been the extent of the problem of homelessness in Singapore in the last three years; (b) whether there has been an in-depth study or research done to look into this complex phenomenon; and (c) what are the short-term and long-term plans to minimise the problem of homelessness.
+      </p>
+      <p>
+        <b>ANSWER</b>
+      </p>
+      <ol>
+        <li>
+          Low-income persons who have no family support and cannot afford to purchase a flat, may apply for HDB's public rental housing or may be assisted with Interim Rental Housing. Those who have exhausted all housing options and require social work intervention to address their underlying issues can be admitted to MSF-funded transitional shelters. Individuals who are destitute, with no family support and no means of supporting themselves, may be admitted to welfare homes. Between 2015 and 2017, MSF assisted an average of 385 such cases each year. These include referrals by MSF patrol teams, police officers, or social and healthcare agencies.
+        </li>
+        <li>
+          Besides temporary accommodation, social workers at transitional shelters work with shelter residents to address their underlying issues, such as employment, financial and family issues, and to secure long-term housing arrangements. The welfare homes provide care and rehabilitation programmes for destitute persons to improve their physical and emotional well-being, and where possible re-integrate them into the community again.
+        </li>
+        <li>
+          There are also individuals who have homes but sleep in public for various reasons. For instance, they may have disputes with family members or co-tenants, or wish to be closer to their workplaces due to lack of transport options from home. Most of the persons sleeping in public whom MSF's patrol teams come across fall into these categories.
+        </li>
+        <li>
+          We have found that families in transitional housing often experienced divorce and financial difficulties. Many had sold their flats and spent their monies to clear debts or for other purposes before becoming homeless. It is thus important to provide holistic support and intervention across relevant agencies to address the families' issues.
+        </li>
+        <li>
+          MSF works closely with Government agencies and community partners to address homelessness. A key thrust is upstream support to enable individuals to access and remain in HDB housing. We are strengthening inter-agency coordination with HDB, social service agencies and community groups to do this. As family conflict and stresses are often linked to homelessness, social workers play an important role in addressing the root causes. MSF will also continue to review and enhance the effectiveness of the shelter models to help homeless families and individuals regain stability and access stable housing. Members of the public can play a part by offering help to homeless individuals they encounter. They can call the ComCare hotline at 1800 222 0000, or approach the nearest Social Service Office or Family Service Centre for assistance.
+        </li>
+      </ol>
+      <div style="text-align: right;">
+        <a href="https://www.msf.gov.sg/media-room/Pages/State-of-homelessness-in-Singapore.aspx" target="blank">
+          <b>THE ORIGINAL ARTICLE</b>
+        </a>
+      </div>
+      <hr class="dotted">
+    </div>
+  </div>
+</section>
+
+<!-- Posts -->
+<section id="2019">
+  <div class="inner">
+    <a href="#banner" class="button special fit icon fa-arrow-up">2019</a>
+    <!-- Third post -->
+    <div class="box">
+      <header class="major" style="padding: 0.5em 0 0 0;">
+        <h3>Hidden in plain sight: Tackling homelessness in ‘crazy rich’ Singapore</h3>
+        <p style="padding: -0.5em 0 0 0;">2019.12.31</p>
+      </header>
+      <blockquote>
+        <p>
+          While not easily visible, between 921 and 1,050 people in Singapore sleep on the streets every night. Why is the city-state leaving these vulnerable citizens behind?
+        </p>
+      </blockquote>
+      <p>
+        In November 2019, a landmark study on Singapore’s homeless population was released. The nationwide street count, led by Assistant Professor Ng Kok Hoe of the Lee Kuan Yew School of Public Policy, unveiled for the first time the scale of homelessness within the country.
+      </p>
+      <p>
+        Singapore may have been the rapacious backdrop for the Hollywood hit film Crazy Rich Asians, but there are up to 1,000 homeless citizens sleeping rough in the city-state every night.
+      </p>
+      <p>
+        <b>Homelessness is not readily visible</b>
+      </p>
+      <p>
+        Singapore boasts one of the highest rates of homeownership in the world. In 2018, the figure stood at 91%. The phenomenon of homelessness in the island nation is not typically observable – unless one deliberately goes in search of those eking out a life on the streets.
+      </p>
+      <p>
+        That was what a team of nearly 500 volunteer fieldworkers did over a period of three months to produce Homeless in Singapore: Results from A Nationwide Street Count. Starting work after 11.30 pm, the fieldworkers scoured over 12,000 blocks of housing flats as well as other public and commercial spaces to record the number of rough sleepers. They interviewed 88 of those they found sleeping on the streets.  
+      </p>
+      <p>
+        Assistant Professor Ng Kok Hoe told ASEAN Today: “Research plays an important role by bringing social issues into the open and providing an evidence base for the planning of services and policies. As the economy and society change, we must continue to have research to update and deepen our understanding of homelessness.”
+      </p>
+      <img src="{% link assets/images/sg-2019-3-1.jpg %}" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 50%"/>
+      <p>
+        Singapore’s homeless population are easily overlooked. They rarely fit stereotypical profiles of the destitute and displaced. Many of the homeless in the city-state have “found ways to keep their appearance”, with nearly 30% of the rough sleepers were identified by fieldworkers as ‘presentable’ and most do not carry many possessions with them.
+      </p>
+      <p>
+        <b>Many are employed and working but homeless</b>
+      </p>
+      <p>
+        The majority of the homeless in Singapore, nearly 60%, hold down jobs. The nature of their employment often drove them to the streets.
+      </p>
+      <p>
+        Most of the homeless are working in low-wage and irregular jobs, with many working in the cleaning, security, and retail industries. The median wage of an employed homeless worker stands at S$1,400 (US$1,036) a month. The national median wage is $3,467 (US$2,564) in Singapore. Paying for rent or a mortgage with an income that is less than half that of the national median was impossible for many of the homeless interviewed.
+      </p>
+      <p>
+        Segments of the population with lower skills and education levels are therefore more vulnerable to homelessness stemming from unstable and low-paying work. Some 76% of Singapore’s homeless population have a secondary school education or below. 
+      </p>
+      <p>
+        Moreover, with the onset of an ageing population, insecure and low-paying work is particularly worrying as a pathway to homelessness. “In Singapore, homelessness is related to in-work poverty in old age. We found that homeless people here tend to be older because their homelessness is related to insecure work and low wages, which are most common among older workers,” Professor Ng told ASEAN Today. The average age of the homeless interviewed was 54, and more than half were judged by fieldworkers to be above the age of 50.
+      </p>
+      <div>
+        <span class="image left"><img src="{% link assets/images/sg-2019-3-2.jpg %}" alt="" /></span>
+        <p>
+          Homelessness in the lion city is typically not a temporary condition. The study revealed that the majority of those who find themselves homeless in Singapore will likely remain so for years. Of those interviewed, half have been sleeping rough for between one and five years. Another third have been homeless for a period of six years or longer.
+        </p>
+        <p>
+          Amongst those interviewed, 40% of the group had previously sought help but were still unable to escape their predicament. Social Service Offices, which disburse financial aid, and Members of Parliament (MPs) were the most likely parties for homeless to turn to for help.
+        </p>
+        <p>
+          Help has not been forthcoming. While up to 1,000 Singaporeans lay their heads on the streets every night, only around 290 people were recipients of assistance from the MSF.
+        </p>
+      </div>
+      <p>
+        <b>Current schemes need to be beefed up to address homelessness</b>
+      </p>
+      <p>
+        The chronic nature of homelessness means that the mitigating solutions have to be multifaceted in targeting problem factors. “Homelessness needs to be addressed through multiple strategies. Services like outreach and befriending are important because they provide relief and support to homeless people. They can also help to connect homeless people to resources like financial assistance and overnight shelters. These services can be expanded,” Prof Ng elaborates.
+      </p>
+      <p>
+        Overnight shelters like Ministry of Social and Family Development (MSF)-funded Crisis Shelters and Transitional Shelters provide temporary accommodation and relief to the homeless. MSF also launched the Partners Engaging and Empowering Rough Sleepers (PEERS) Network in July 2019, bringing together 26 agencies including religious institutions in helping the homeless in Singapore.
+      </p>
+      <div>
+        <span class="image right"><img src="{% link assets/images/sg-2019-3-3.jpg %}" alt="" /><i>More than half of Singapore’s homeless population are above the age of 50.</i></span>
+        <p>
+          The Housing and Development Board (HDB) will be a key player in devising longer-term solutions to homelessness. Its public rental housing scheme is designed to help those most in need but strict eligibility criteria, like the joint tenancy requirement for singles to co-rent a one-room flat, have blunted the thrust.
+        </p>
+        <p>
+          15% of the rough sleepers interviewed by fieldworkers had HDB rental flats in their names but the challenges that come with sharing an apartment with strangers and conflicts with co-tenants have deterred them from going home for the night.
+        </p>
+        <p>
+          Prof Ng elaborates: “Inadequate conditions in public rental housing can both add to homelessness and prevent exit from it. The joint tenancy requirement for singles needs to be urgently removed.”
+        </p>
+        <p>
+          At the same time, more needs to be done to ensure that an inclusive social safety net is in place to prevent Singaporeans from descending into homelessness in the first place.
+        </p>
+        <p>
+          “We need to restrict the pathways into homelessness and improve the exit routes into stable and secure housing,” Prof Ng informed ASEAN Today. But this will only come by looking at the problem as a multi-dimensional issue.
+        </p>
+        <p>
+          “To prevent homelessness, we must make work conditions more secure and protect wages at the bottom and strengthen alternative provisions of income security in old age for those who are unable to work,” Ng concluded.  
+        </p>
+      </div>
+      <div style="text-align: right;">
+        <a href="https://www.aseantoday.com/2019/12/hidden-in-plain-sight-tackling-homelessness-in-crazy-rich-singapore/" target="blank">
+          <b>THE ORIGINAL ARTICLE</b>
+        </a>
+      </div>
+      <hr class="dotted">
+    </div>
+    <!-- First post -->
+    <div class="box">
+      <header class="major" style="padding: 0.5em 0 0 0;">
+        <h3>1,000 homeless people found sleeping on Singapore streets: Nationwide study</h3>
+        <p style="padding: -0.5em 0 0 0;">2019.11.15</p>
+      </header>
+      <blockquote>
+        <p>
+          SINGAPORE - The first nationwide study of homelessness in Singapore found that about 1,000 people were sleeping on the streets.
+        </p>
+      </blockquote>
+      <p>
+        They were sleeping rough in most parts of the island, but more were found in the older and larger housing estates such as in the city area, Bedok and Kallang. These areas also had more rental flats, as homelessness is linked to poverty. The study did not specify which areas in the city it was referring to.
+      </p>
+      <p>
+        Over eight in 10 of the homeless were men and of those interviewed, six in 10 were working, mostly in low-wage jobs like cleaning and as security guards.
+      </p>
+      <p>
+        Half the number had been toughing it out on the streets for between one and five years, and nearly one-third did so for six years or longer.
+      </p>
+      <p>
+        They slept in places like void decks, commercial buildings and playgrounds.
+      </p>
+      <p>
+        The study was done by Assistant Professor Ng Kok Hoe of the Lee Kuan Yew School of Public Policy (LKYSPP) at the National University of Singapore. He led a team of close to 500 volunteer fieldworkers who covered 12,000 blocks of flats and other public and commercial spaces over three months to count the numbers sleeping on the streets.
+      </p>
+      <p>
+        The fieldworkers, who started work after 11.30 pm, recorded the number of people who were asleep or going to sleep in public spaces. These rough sleepers also had some form of bedding or many belongings.
+      </p>
+      <p>
+        The study also interviewed 88 of the homeless people.
+      </p>
+      <p>
+        Dr Ng said: "Homelessness exists in Singapore. But despite growing policy and public attention in recent years, the size of the homeless population in Singapore is not known.
+      </p>
+      <p>
+        "Knowing the number of homeless people and where they may be found allows services to be designed and organised in a systematic way."
+      </p>
+      <p>
+        <b>The key findings include:</b>
+      </p>
+      <blockquote>
+        <ul>
+          <li>Some six in 10 of the homeless were working but their median wage was $1,400 a month, compared to the national median wage of $3,467.</li>
+          <li>About half said they were sleeping on the streets as they were unemployed, did not have regular jobs or earned very little. So they could not pay their rent or mortgage, or they had sold their house. Family conflicts and breakups were cited as another main reason for homelessness.</li>
+          <li>Some 26 per cent either rented a flat from the Housing Board (HDB) at highly subsidised rates or bought an HDB flat. However, some chose not to go home because of conflicts with their co-tenant.</li>
+          <li>Some 40 per cent of those interviewed had sought help in the past year. They did so from a number of places including the Social Service Offices which administer the Government's financial aid schemes or their Member of Parliament.</li>
+        </ul>
+      </blockquote>
+      <p>
+        The study, which was released on Friday afternoon (Nov 8), is an independent one funded by a research grant from the LKYSPP. The Ministry of Social and Family Development (MSF) supported the study and also helped to mobilise social workers for the street count.
+      </p>
+      <p>
+        Dr Ng noted the complexity of their problems, saying that could be a reason why 40 per cent sought help but stilll found it hard to break out of their homeless predicament.
+      </p>
+      <p>
+        Mr Lee Kim Hua, a senior director at MSF, said the ministry defined a homeless person as someone "who feels he has no home to go back to, whether he owns a house or is renting a place".
+      </p>
+      <p>
+        He said: "As long as he doesn't feel safe going back at night to sleep, we take it as homelessness."
+      </p>
+      <p>
+        Mr Lee said that ministry has stepped up its partnership with community groups to reach out to and aid the homeless over the past two years. This is needed, as among other reasons, some of the homeless may be afraid of and shun help from the authorities but not staff and volunteers from charities.
+      </p>
+      <p>
+        So the key is for the community groups to engage them and build trust, and when they are ready, the ministry can extend the help needed.
+      </p>
+      <p>
+        The ministry has brought together the different groups helping the homeless and in July, the Partners Engaging and Empowering Rough Sleepers (Peers) Network was launched. It now has 26 members, such as the Catholic Welfare Services and the Homeless Hearts of Singapore.
+      </p>
+        Mr Lee said that the ministry is working with the Peers Network to build an interim shelter for those sleeping on the streets. There are currently three transitional shelters catering to the homeless.
+      <img src="{% link assets/images/sg-2019-1.jpg %}" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 50%"/>
+      <div style="text-align: right;">
+        <a href="https://www.straitstimes.com/singapore/1000-homeless-people-found-sleeping-on-singapore-streets-nationwide-study" target="blank">
+          <b>THE ORIGINAL ARTICLE</b>
+        </a>
+      </div>
+      <hr class="dotted">
+    </div>
+    <!-- Second post -->
+    <div class="box">
+      <header class="major" style="padding: 0.5em 0 0 0;">
+        <h3>Is Homelessness a Problem in Singapore?</h3>
+        <p style="padding: -0.5em 0 0 0;">2019.04.10</p>
+      </header>
+      <div>
+        <span class="image left"><img src="{% link assets/images/sg-2019-2.jpg %}" alt="" /></span>
+        <p>
+          The answer to that question is, in short, yes. According to a survey done by volunteers of a welfare organisation ‘Montfort Care’ and volunteer group ‘SW101’ in late 2017, there are 180 homeless people sleeping outdoors across 25 locations in Singapore.The same survey also debunked certain generalisations and stereotypes of homeless people in Singapore as being lazy or crazy given that two-thirds of the homeless people interviewed had a job, and more than one-quarter had a flat to their name.
+        </p>
+        <p>
+          Between 2015 and 2017, the Ministry of Social and Family Development (“MSF”) assisted an average of 385 homelessness cases each year. While this issue might appear invisible to the local eye, but in truth, this makes the issue an even more pertinent one to address.
+        </p>
+        <p>
+          This article will provide some avenues of help you can direct homeless people to, depending on the nature of the help they require.
+        </p>
+      </div>
+      <p>
+        <b>
+          Reasons Behind and Risks of Homelessness
+        </b>
+      </p>
+      <p>
+        Individuals may be in their plight due to multiple reasons – tenancy disagreements with their landlord, poorly managed finances, familial and spousal issues, unemployment, a victim of cheating or fraud, or simply because they do not understand their legal rights. One will also note that a majority of persons in such a situation tend to be of old age and/or are not as educated.
+      </p>
+      <p>
+        Whilst it is certainly not a crime to be homeless, many homeless persons may find themselves in a precarious situation, as many often have to resort to begging to earn an income. This might pose an issue as under the Destitute Person Act, habitual beggars that cause a “nuisance” in a public space may be penalised with a fine of $3,000 or imprisonment for up to 2 years.
+      </p>
+      <p>
+        This may even exacerbate a homeless person’s situation, as most would not be able to pay up, should a fine be imposed. This might result in them having to serve a default sentence of imprisonment. Even a short stint in jail will adversely impact these persons, causing them to forgo income they would otherwise have earned or even to lose their job.
+      </p>
+      <p>
+        It is, however, somewhat comforting to note that there have been no reported prosecutions under the said statute thus far.
+      </p>
+      <p>
+        As a preventive measure, it may be useful for tenants or other persons at risk of homelessness to seek legal advice at an early stage. Many avenues to obtain legal advice exist, for instance, Pro-bono clinics which can help answer the legal questions of those at risk, and even homeless individuals. One such avenue is the Community Legal Clinic, which is administered by the Law Society Pro Bono Services at the Commnity Justice Centre in the State Courts.
+      </p>
+      <p>
+        <b>Homeless Shelters: Transitional Shelters</b>
+      </p>
+      <p>
+        Those who have exhausted all other means of accommodation and are not eligible for Housing and Development Board (HDB) options can apply for temporary accommodation at the Ministry of Social and Family Development’s transitional shelters. One such transitional shelter is run by a social service organisation called AWWA that seeks to help displaced families obtain stable housing in the long run.
+      </p>
+      <p>
+        <u>Eligibility for Transitional Shelters</u>
+      </p>
+      <p>
+        According to MSF’s clarifications, Transitional Shelters are only available for the homeless if they have exhausted all other possibilities, such as seeking residence with a family member or a friend. Other disqualifying factors include if the individual has physical or mental health conditions that make it unsuitable for him or her to stay in a transitional shelter. In such situations, the social service worker or agency will refer the individual to the relevant care facilities.
+      </p>
+      <p>
+        <b>Homeless Shelters: Welfare Homes</b>
+      </p>
+      <p>
+        Welfare homes are available to individuals who are:
+      </p>
+      <ul>
+        <li>unable to work;</li>
+        <li>have no financial means;</li>
+        <li>do not have accommodation;</li>
+        <li>do not have family support.</li>
+      </ul>
+      <p>
+        Such individuals will most likely be referred to welfare homes in Singapore. Currently, there are 10 welfare homes registered under the Destitute Persons Act to care for the aforementioned group of individuals.
+      </p>
+      <p>
+        <b>Financial Aid</b>
+      </p>
+      <p>
+        Individuals seeking financial help can look towards ComCare, an assistance scheme provided by the Government to support low-income individuals and families. ComCare programmes include Workfare, medical, education subsidies and housing assistance.
+      </p>
+      <p>
+        <u>Eligibility</u>
+      </p>
+      <p>
+        To qualify for ComCare, individuals must:
+      </p>
+      <ul>
+        <li>Have a household income of $1,900 and below or a per capita household income of $650 and below; and</li>
+        <li>Be a Singapore Citizen or Permanent Resident (with at least one immediate family member in the same household being a Singapore Citizen).</li>
+      </ul>
+      <p>
+        More information on ComCare schemes can be accessed here.
+      </p>
+      <p>
+        <b>How You Can Help </b>
+      </p>
+      <p>
+        The first thing to remember is that every homeless individual has their own set of unique circumstances and may require help of a different nature than you envisioned. If you decide to approach a homeless individual (as we highly encourage that you do), try your best to understand their circumstances and their needs – factors such as their housing situation (whether they own or rent a flat but are sleeping on the streets for a different reason), employment situation, income, and family situation would be helpful when it comes to finding the appropriate avenue of help.
+      </p>
+      <p>
+        As mentioned earlier, homeless individuals may be in their situation due to a large number of reasons – a family dispute or conflict at home and other times, a homeless individual is in dire need of financial aid. In all of these situations, after you have understood their situation, here are some steps that you may take to extend your help:
+      </p>
+      <ul>
+        <li>refer them to or offer to bring them to the nearest Social Service Office or Family Service Centre</li>
+        <li>call the ComCare hotline (1800-222 0000) to ask for more information on how you may assist the homeless individual</li>
+        <li>refer them to volunteer organisations such as the Homeless Hearts of Singapore (hyperlink: https://homeless.sg)</li>
+        <li>refer them to a pro-bono clinic if they are undergoing any legal issues with tenancy disputes, or if they simply need help writing appeals to shelters that have rejected their application.</li>
+      </ul>
+      <p>
+        Furthermore, if you encounter a homeless individual who is experiencing domestic violence at home, there are MSF crisis shelters available to them. Do offer to bring them to the nearest Family Service Centre or AWWA. 
+      </p>
+      <p>
+        It is also important to note that many homeless persons are inherently hesitant to approach others for help or accept help. Whilst it is a noble task to reach out and help others, one must take sufficient care not to overstep personal boundaries. It might take some time and effort before the individual is willing to open himself up and accept your gesture, but this can only happen if mutual trust and respect is maintained.
+      </p>
+      <p>
+        People say, “Out of sight; out of mind”, but just because one does not see the invisible hardships which homeless people face does not mean that this problem does not exist. In the face of ever-increasing property prices, it is all the more important for our society to be equipped to prevent homelessness and to assist our homeless peers to find a place in our Home, truly.
+      </p>
+      <p>
+        <b>Have a question about homelessness?</b>
+      </p>
+      <p>
+        If you have any questions about homelessness, you can get a Quick Consult with Nigel Sim or other lawyers. With Quick Consult, from a transparent, flat fee of $49, a lawyer will call you on the phone within 1-2 days to give you legal advice.
+      </p>
+      <p>
+        This article is written by <a href="https://www.asialawnetwork.com/lawyers/nigelsim" target="blank">Nigel Sim</a> from <a href="https://www.asialawnetwork.com/lawfirms/bmslaw" target="blank">BMS Law</a> and edited by Jen Wang from Asia Law Network.
+      </p>
+      <div style="text-align: right;">
+        <a href="https://learn.asialawnetwork.com/2019/04/10/is-homelessness-a-problem-in-singapore/" target="blank">
+          <b>THE ORIGINAL ARTICLE</b>
+        </a>
+      </div>
+      <hr class="dotted">
+    </div>
   </div>
 </section>
 
@@ -165,7 +519,7 @@ backLink: blogposts
       </p>
       <div>
         <span class="image right">
-          <img src="{% link assets/images/sg-2018-1-3.jpg %}" alt="" />
+          <img src="{% link assets/images/sg-2018-1-4.jpg %}" alt="" />
           <i>
             Jurong Community Hospital.
           </i>
